@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <br>
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/pola-ramesh-chandra-b78347202/">
+<a href="https://www.linkedin.com/in/pola-ramesh-chandra-b78347202/" target="blank" >
   <img align="left" width ="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-<a href="https://twitter.com/POLARAMESHCHAN2">
+<a href="https://twitter.com/POLARAMESHCHAN2" target="blank" >
     <img align="left" width ="25px"src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
   </a>
   <a href="mailto:pola.rameshchandra22@gmail.com">
