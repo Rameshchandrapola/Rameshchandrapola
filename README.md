@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/POLARAMESHCHAN2">
     <img align="left" width ="25px"src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"/>
   </a>
-  <a href="pola.rameshchandra22@gmail.com">
+  <a href="mailto:pola.rameshchandra22@gmail.com">
     <img align="left" width ="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   <br>
