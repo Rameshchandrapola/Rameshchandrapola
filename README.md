@@ -44,10 +44,12 @@ Here are some ideas to get you started:
     <a><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rameshchandrapola streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
 </p>
 
-## 📊 My Github Stats <img src="(https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
+## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
-    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&theme=radical"  />
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact" align="left" height="165" /></a>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&theme=radical"  />
+  <br>
+  <br>
+ <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact"  align="center" height="165" /></a>
 
 <br>
 <br>
