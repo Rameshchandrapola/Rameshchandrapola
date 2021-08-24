@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats <img src="(https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
     <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&theme=radical"  />
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact" align="right" vertical-align="bottom" height="165" /></a>
+ <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact" align="left" height="165" /></a>
 
 <br>
 <br>
