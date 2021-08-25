@@ -46,15 +46,20 @@ Here are some ideas to get you started:
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&theme=radical"  />
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff"  />
   <br>
   <br>
  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact"  align="center" height="165" /></a>
 
 <br>
-<br>
-<a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
-  <br>
+<p>
+<a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,FFA500,00dbde&title_color=000&text_color=000" /></a>
+</p>
+
+## My Trending Repos 💻
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=My-first-website&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Rameshchandrapola/My-first-website)
+
 
 <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
 
