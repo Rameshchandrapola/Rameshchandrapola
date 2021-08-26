@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 <p>
-<a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,FFA500,00dbde&title_color=000&text_color=000" /></a>
+<a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 ## My Trending Repos 💻
