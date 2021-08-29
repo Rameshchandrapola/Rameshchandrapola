@@ -42,17 +42,17 @@ Here are some ideas to get you started:
   <a > <img src="https://user-images.githubusercontent.com/76244600/126532816-c1a58804-20cf-4762-836b-2d243cf7687d.png" alt="Ubuntu" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center">
-    <a><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rameshchandrapola streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
-</p>
+ <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
   <br/>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff"  />
   <br>
   <br>
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
 
+<p align="center">
+    <a><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rameshchandrapola streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
+</p>
 <br>
 <p>
 <a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
