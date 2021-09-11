@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
 
- ![Visitor Count](https://profile-counter.glitch.me/{Rameshchandrapola}/count.svg)
+ ![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square)
 
 <br>
 
