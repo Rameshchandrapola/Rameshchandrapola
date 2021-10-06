@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning DSA
-- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Frontend projects
 - 👬 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: I love photography, internet surfering 🏄‍♂️, and coding
+- ⚡ I love photography, internet surfering 🏄‍♂️, and coding
 - 💬 Ask me about something which I know
 
 
