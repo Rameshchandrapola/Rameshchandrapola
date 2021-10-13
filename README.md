@@ -63,19 +63,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
+
 <br>
  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
 
@@ -100,17 +88,18 @@ Here are some ideas to get you started:
 <a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 </p>
 
-## My Trending Repos 💻
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=My-first-website&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Rameshchandrapola/My-first-website)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/Rameshchandrapola/Webdev-Projects)
 
 
+<h2 align="center">My Trending Repos 💻</h2>
+ <p align='center'>
+  <a href="(https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="(https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="(https://github.com/Rameshchandrapola/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+</p>
+<br>
 <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
 
- ![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square)
-
-<br>
+![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
 
