@@ -7,13 +7,8 @@
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Frontend projects
-- 👬 I’m looking to collaborate on **Open Source Projects**
-- ⚡ I love photography, internet surfering 🏄‍♂️, and coding
-- 💬 Ask me about something which I know
 
 
 
@@ -43,6 +38,17 @@ Here are some ideas to get you started:
   <br>
   <br>
   
+ ## My Blogs
+<oi>
+  <li>
+<a href="https://rameshchandra22.hashnode.dev/top-15-vs-code-extensions-for-web-development"><strong>Top 15 VS Code Extensions For Web Development</strong></a></li>
+  <li>
+<a href="https://rameshchandra22.hashnode.dev/getting-started-with-github-pages"><strong>Getting started with GitHub pages</strong></a></li>
+  <li>
+<a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
+  </oi>
+<br>
+
  ## Languages and Tools:
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
