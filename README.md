@@ -100,9 +100,9 @@
 
 <h2 align="center">My Trending Repos 💻</h2>
  <p align='center'>
-  <a href="(https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="(https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="(https://github.com/Rameshchandrapola/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+  <a href="https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/Rameshchandrapola/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
 <br>
 <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
