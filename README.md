@@ -78,7 +78,7 @@
 
 <table><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
