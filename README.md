@@ -46,6 +46,8 @@
 <a href="https://rameshchandra22.hashnode.dev/getting-started-with-github-pages"><strong>Getting started with GitHub pages</strong></a></li>
   <li>
 <a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
+    <li>
+<a href="https://rameshchandra22.hashnode.dev/19-tips-to-google-like-a-pro"><strong>19 tips to Google like a pro</strong></a></li>
   </oi>
 <br>
 
