@@ -70,30 +70,28 @@
 
 
 <br>
- <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
+<!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
+ <p align="center" >
+ <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
-  <br/>
 
+  
+   <p align="center" >
+ <a href="#"><img alt="Rameshchandrapola's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <p align="center" >
+ <a href="#"><img  alt="Rameshchandrapola's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+
+
+<a href="#"><img alt="Rameshchandrapola's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!-- 
 <table><td valign="top" width="50%">
+ -->
+<!-- </td><td valign="top" width="50%"> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" />
-
-</td></table>  
-
-<br/>  
-
-
-<br>
-<p>
-<a><img alt="RameshChandrapola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
-</p>
-
-
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" /> -->
+<!-- </td></table>   -->
 
 <h2 align="center">My Trending Repos 💻</h2>
  <p align='center'>
