@@ -22,7 +22,7 @@
   <a href="https://rameshchandra22.hashnode.dev/">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/rameshchandrapola/">
+  <a href="https://www.instagram.com/polarameshchandra/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:pola.rameshchandra22@gmail.com">
