@@ -45,6 +45,9 @@
 <a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
     <li>
 <a href="https://rameshchandra22.hashnode.dev/19-tips-to-google-like-a-pro"><strong>19 tips to Google like a pro</strong></a></li>
+      <li>
+<a href="https://rameshchandra22.hashnode.dev/53-new-shortcuts-to-perform-new-actions-in-one-step"><strong>53 new shortcuts to perform new actions in one step</strong></a></li>
+
   </oi>
 <br>
 
@@ -97,7 +100,9 @@
  <p align='center'>
   <a href="https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 <a href="https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/Rameshchandrapola/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/Rameshchandrapola/LeetCode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=LeetCode&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+  <a href="https://github.com/Rameshchandrapola/Codeforces"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Codeforces&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+    <a href="https://github.com/Rameshchandrapola/Rameshchandrapola"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Rameshchandrapola&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
 <br>
 <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
